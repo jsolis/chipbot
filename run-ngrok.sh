@@ -1,3 +1,3 @@
 #!/bin/sh
 
-ngrok http -subdomain=jsolis 8080
+ngrok http 8080
