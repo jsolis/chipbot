@@ -1,6 +1,8 @@
 [
+  "hubot-cron",
   "hubot-diagnostics",
   "hubot-help",
+  "hubot-forecastio",
   "hubot-google-images",
   "hubot-google-translate",
   "hubot-pugme",
@@ -8,5 +10,6 @@
   "hubot-particle",
   "hubot-redis-brain",
   "hubot-rules",
+  "hubot-sentimental",
   "hubot-shipit"
 ]
